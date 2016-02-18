@@ -25,3 +25,5 @@ echo.      exit /b 1
 echo.    ) else (
 echo.      exit /b 0
 echo.    )
+
+exit /b 0
