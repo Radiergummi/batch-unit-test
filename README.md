@@ -34,5 +34,6 @@ for /f "eol=; tokens=* delims=, " %%i in (%temp%\test_x.txt) do (
 )
 
 :: Expected outcome not met
+echo. [FAIL]  Could not find "success" in command output.
 exit /b 1
 ````
