@@ -25,5 +25,6 @@ echo.      exit /b 1
 echo.    ^) else ^(
 echo.      exit /b 0
 echo.    ^)
+echo.
 
 exit /b 0
